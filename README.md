@@ -11,4 +11,4 @@
 * [Python从小白到攻城狮(9)——匿名函数]()
 
 
-![公众号：代码视界](https://raw.githubusercontent.com/HamptonChen/hampton-demo-repo/master/assets/images/wxgzh_qrcode.png)
+![公众号：代码视界](./assets/images/gzh_qrcode.png)
