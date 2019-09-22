@@ -8,7 +8,8 @@
 * [Python从小白到攻城狮(6)——条件与循环](http://www.chenhanpeng.com/2019/08/27/python_series/python_6_条件与循环/)
 * [Python从小白到攻城狮(7)——函数](http://www.chenhanpeng.com/2019/09/05/python_series/python_7_函数/)
 * [Python从小白到攻城狮(8)——模块](http://www.chenhanpeng.com/2019/09/05/python_series/python_8_模块/)
-* [Python从小白到攻城狮(9)——匿名函数]()
+* [Python从小白到攻城狮(9)——匿名函数](http://www.chenhanpeng.com/2019/09/18/python_series/python_9_匿名函数/)
+* [Python从小白到攻城狮(10)——高阶函数](http://www.chenhanpeng.com/2019/09/22/python_series/python_10_高阶函数/)
 
 
 ![公众号：代码视界](./assets/images/gzh_qrcode.png)
