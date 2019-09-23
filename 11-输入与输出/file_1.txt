@@ -1,0 +1,2 @@
+Python是一门有用的编程语言。
+Hello world！
