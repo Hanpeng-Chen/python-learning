@@ -12,6 +12,7 @@
 * [Python从小白到攻城狮(10)——高阶函数](http://www.chenhanpeng.com/python-10-higher-order-function/)
 * [Python从小白到攻城狮(11)——输入与输出](http://www.chenhanpeng.com/python-11-input-and-output/)
 * [Python从小白到攻城狮(12)——错误和异常](http://www.chenhanpeng.com/python-12-error-and-exception/)
+* [Python从小白到攻城狮(13)——迭代器](http://www.chenhanpeng.com/python-13-iterator/)
 
 
 ![公众号：代码视界](./assets/images/gzh_qrcode.png)
