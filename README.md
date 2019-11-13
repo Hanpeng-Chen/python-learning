@@ -16,7 +16,7 @@
 * [Python从小白到攻城狮(14)——面向对象](http://www.chenhanpeng.com/python-14-object-oriented-programming/)
 * [Python从小白到攻城狮(15)——命名空间和作用域](http://www.chenhanpeng.com/python-15-namespace-and-scope/)
 * [Python从小白到攻城狮(16)——正则表达式](http://www.chenhanpeng.com/python-16-regular-expression/)
-* [Python从小白到攻城狮(17)——os文件目录方法](http://www.chenhanpeng.com/python-16-os/)
+* [Python从小白到攻城狮(17)——os文件目录方法](http://www.chenhanpeng.com/python-17-os/)
 
 
 ![公众号：代码视界](./assets/images/gzh_qrcode.png)
