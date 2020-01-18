@@ -17,6 +17,10 @@
 * [Python从小白到攻城狮(15)——命名空间和作用域](http://www.chenhanpeng.com/python-15-namespace-and-scope/)
 * [Python从小白到攻城狮(16)——正则表达式](http://www.chenhanpeng.com/python-16-regular-expression/)
 * [Python从小白到攻城狮(17)——os文件目录方法](http://www.chenhanpeng.com/python-17-os/)
+* [Python从小白到攻城狮(18)——进程和线程](http://www.chenhanpeng.com/python-18-process-and-thread/)
+* [Python从小白到攻城狮(19)——网络编程入门](http://www.chenhanpeng.com/python-network-programming-tcp-and-udp/)
+* [Python从小白到攻城狮(20)——使用SMTP和POP模块实现收发电子邮件](http://www.chenhanpeng.com/python-smtp-and-pop-email/)
+* [Python从小白到攻城狮(21)——使用Pillow库进行图像处理](http://www.chenhanpeng.com/python-pillow-deal-images/)
 
 
 ![公众号：代码视界](./assets/images/gzh_qrcode.png)
